@@ -1,0 +1,23 @@
+#logoCyberdev{
+    width: auto;
+    height: 5em;
+}
+
+.resaux{
+    width: auto;
+    height: 5em;
+}
+
+li{
+    list-style: none;
+}
+
+.card-img-top{
+    width: auto;
+    height: 15em;
+}
+
+.imgCaroussel{
+    width: 80vh;
+    height: 70vh;
+}
