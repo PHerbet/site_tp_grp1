@@ -21,3 +21,7 @@ li{
     width: 80vh;
     height: 70vh;
 }
+
+#result:hover{
+    transform: scale(1.2);
+}
