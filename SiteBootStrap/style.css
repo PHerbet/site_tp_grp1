@@ -12,6 +12,10 @@ li{
     list-style: none;
 }
 
+.test{
+    animation: rotation 1s alternate infinite;
+}
+
 .card-img-top{
     width: auto;
     height: 15em;
@@ -22,6 +26,22 @@ li{
     height: 70vh;
 }
 
+<<<<<<< HEAD
 #result:hover{
     transform: scale(1.2);
+=======
+.htmlBande{
+    width: 100%;
+    height: 20em;
+}
+
+@keyframes rotation {
+    from{
+        rotate: 10deg;
+    }
+    to{
+        rotate: -10deg;
+    }
+    
+>>>>>>> eebd7dd6b619fe33f215003812c2904cb503d60c
 }
